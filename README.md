@@ -10,30 +10,51 @@
 
 ---
 
-## 🛠 Технологии и инструменты
+## 🛠 Технологии и навыки
 
 **Платформа и языки**
 
-![1C](https://img.shields.io/badge/1C-Enterprise_8.3-yellow?style=for-the-badge)
-![Query](https://img.shields.io/badge/1C-Query_Language-orange?style=for-the-badge)
+![1С:Предприятие](https://img.shields.io/badge/1С-Предприятие_8.3-yellow?style=for-the-badge)
+![Встроенный язык](https://img.shields.io/badge/Встроенный-язык_1С-orange?style=for-the-badge)
+![Язык запросов](https://img.shields.io/badge/Язык-запросов-orange?style=for-the-badge)
 
-**Механизмы платформы**
+**Основные механизмы платформы**
 
-![Registers](https://img.shields.io/badge/Registers-1C-blue?style=flat-square)
-![Documents](https://img.shields.io/badge/Documents-1C-blue?style=flat-square)
-![Directories](https://img.shields.io/badge/Catalogs-1C-blue?style=flat-square)
-![SKD](https://img.shields.io/badge/СКД-Reports-green?style=flat-square)
-![Business processes](https://img.shields.io/badge/Business_Processes-1C-purple?style=flat-square)
+![Справочники](https://img.shields.io/badge/Справочники-1С-blue?style=flat-square)
+![Документы](https://img.shields.io/badge/Документы-1С-blue?style=flat-square)
+![Перечисления](https://img.shields.io/badge/Перечисления-1С-blue?style=flat-square)
+![Регистры](https://img.shields.io/badge/Регистры-1С-blue?style=flat-square)
+![Планы счетов](https://img.shields.io/badge/Планы_счетов-1С-blue?style=flat-square)
+![Планы видов расчёта](https://img.shields.io/badge/Планы_видов_расчёта-1С-blue?style=flat-square)
+
+**Учёт и отчётность**
+
+![СКД](https://img.shields.io/badge/СКД-Отчёты-green?style=flat-square)
+![Бухгалтерский учёт](https://img.shields.io/badge/Бухгалтерский_учёт-1С-green?style=flat-square)
+![Складской учёт](https://img.shields.io/badge/Складской_учёт-1С-green?style=flat-square)
+![Расчёт зарплаты](https://img.shields.io/badge/Расчёт_зарплаты-1С-green?style=flat-square)
+
+**Автоматизация и дополнительные механизмы**
+
+![Бизнес-процессы](https://img.shields.io/badge/Бизнес--процессы-1С-purple?style=flat-square)
+![Задачи](https://img.shields.io/badge/Задачи-1С-purple?style=flat-square)
+![Печатные формы](https://img.shields.io/badge/Печатные_формы-1С-blue?style=flat-square)
+![Обработки](https://img.shields.io/badge/Обработки-1С-blue?style=flat-square)
+![Excel](https://img.shields.io/badge/Импорт-Excel-green?style=flat-square)
+![TXT](https://img.shields.io/badge/Экспорт-TXT-green?style=flat-square)
+![Права доступа](https://img.shields.io/badge/Роли_и_права-1С-blue?style=flat-square)
 
 **Практические навыки**
 
-- Разработка справочников, документов и перечислений.
-- Работа с регистрами накопления, сведений и бухгалтерии.
-- Написание запросов и процедур на встроенном языке 1С.
-- Создание отчётов с использованием СКД.
-- Реализация бизнес-процессов и задач.
-- Настройка ролей и прав доступа.
-- Разработка обработок импорта и экспорта данных.
+- Разработка и настройка объектов конфигурации.
+- Написание процедур, функций и обработчиков событий.
+- Создание запросов к данным информационной базы.
+- Разработка отчётов с использованием СКД.
+- Реализация механизмов складского, финансового и бухгалтерского учёта.
+- Настройка расчёта заработной платы.
+- Разработка бизнес-процессов и маршрутизация задач.
+- Создание обработок для импорта и экспорта данных.
+- Настройка пользовательских интерфейсов, ролей и прав доступа.
 
 ---
 
