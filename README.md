@@ -86,7 +86,7 @@
 - 💼 GitHub: [AndreyDobrynin](https://github.com/AndreyDobrynin)
 - 💬 VK: [Мой профиль](https://vk.ru/kind_andr0)
 - 💬 Telegram: [Мой профиль](https://t.me/kind_andr0)
-- 📄 Резюме: добавь ссылку на [HH.ru](https://hh.ru/resume/93eb38dbff10c16f790039ed1f783837726d74) 
+- 📄 Резюме: [HH.ru](https://hh.ru/resume/93eb38dbff10c16f790039ed1f783837726d74) 
 
 ---
 
